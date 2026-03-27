@@ -1,0 +1,4 @@
+enum DrawingMode {
+  freeHand,
+  floodFill,
+}
